@@ -11,3 +11,10 @@ https://aws.amazon.com/blogs/machine-learning/question-answering-using-retrieval
 Demo of Quickly build high-accuracy Generative AI applications on enterprise data using Amazon Kendra, LangChain, and large language models
 
 https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/
+
+
+## blog_pgvector_langchain.ipynb
+
+Leverage pgvector and Amazon Aurora PostgreSQL for Natural Language Processing, Chatbots and Sentiment Analysis
+
+https://github.com/cuiIRISA/Demo-Knowledge-Based-Retrieval-Augmented-Generation.git
